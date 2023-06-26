@@ -45,7 +45,7 @@ data.Flight_Mode="Normal" #"Landing" or "TakeOff" or "Normal"
 Final_time=3 #seconds
 Frequency=10 #1/seconds   #   # it should be 20
 
-%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %% TRIM & SIM SECTION %%
