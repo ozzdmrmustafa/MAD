@@ -1,0 +1,17 @@
+---------------------------------------------
+Run case  1: - Cruise Condition -
+alpha        ->  alpha       =   10.131447092206589  
+beta         ->  beta        =   0.6432148261658628  
+pb/2V        ->  pb/2V       =   0.00012333906981606233  
+qc/2V        ->  qc/2V       =   0.005543288005110417  
+rb/2V        ->  rb/2V       =   0.0187833524067353  
+flap         ->  flap        =   0.0  
+aileron      ->  aileron     =   0.484597  
+elevator     ->  elevator    =   -10.999294  
+rudder       ->  rudder      =   -0.287957  
+CDo       =   0.025  
+X_cg      =   2.52074355697492    Lunit    
+Y_cg      =   0    Lunit    
+Z_cg      =   0.1177511207950324    Lunit    
+velocity  =   49.9980302132024    Lunit    
+Mach      =   0.14861444589815423    Lunit    
